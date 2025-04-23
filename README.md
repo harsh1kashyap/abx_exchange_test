@@ -35,7 +35,7 @@ cd abx_exchange_test
 
 1. Navigate into the client folder (if not already there):
    ```bash
-   cd AbxClient
+   cd abx_exchange_test
    ```
 
 2. Build the project:
