@@ -23,8 +23,8 @@ cd abx_exchange_test
 
 ### 2. Start the ABX Exchange Server
 
-1. Download and unzip the `abx_exchange_server` ZIP file provided to you.
-2. Navigate into the extracted folder.
+1. Download and unzip the `abx_exchange_test` file provided to you.
+2. Navigate into the extracted folder "nodeserver".
 3. Run the following command to start the server:
    ```bash
    node main.js
